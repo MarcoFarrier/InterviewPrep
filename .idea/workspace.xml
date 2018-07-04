@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04d36449-3f82-4403-aef8-55a114ec98af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AddLinkLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addLinkLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/addLinkListsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addLinkLists.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/addLinkListsTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +21,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="addLinkLists.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/addLinkLists.java">
+        <entry file="file://$PROJECT_DIR$/AddLinkLists/src/addLinkLists.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="213">
-              <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+              <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -38,7 +33,7 @@
         </entry>
       </file>
       <file leaf-file-name="addLinkListsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/addLinkListsTest.java">
+        <entry file="file://$PROJECT_DIR$/AddLinkLists/src/addLinkListsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
@@ -47,7 +42,7 @@
         </entry>
       </file>
       <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Node.java">
+        <entry file="file://$PROJECT_DIR$/AddLinkLists/src/Node.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
@@ -68,6 +63,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Marco &lt;marcofarrier@outlook.com&gt;" />
         <option value="marcofarrier@outlook.com" />
         <option value="Marco Farrier" />
       </list>
@@ -114,11 +110,6 @@
               <item name="AddLinkLists" type="b2602c69:ProjectViewProjectNode" />
               <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AddLinkLists" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InterviewPrep" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -140,6 +131,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marco\OneDrive\Documents\InterviewPrep\AddLinkLists" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -270,8 +264,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530650454024</updated>
-      <workItem from="1530650469554" duration="5130000" />
+      <workItem from="1530650469554" duration="5741000" />
     </task>
+    <task id="LOCAL-00001" summary="Java code for adding two linked lists (https://leetcode.com/problems/add-two-numbers/description/)">
+      <created>1530667660731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530667660731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -289,7 +291,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5130000" />
+    <option name="totallyTimeSpent" value="5741000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
@@ -300,7 +302,7 @@
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.5003658" side_tool="true" visible="true" weight="0.3992298" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5003658" side_tool="true" visible="true" weight="0.3992298" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -308,7 +310,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945135" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945135" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -340,7 +342,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/addLinkListsTest.java</url>
+          <url>file://$PROJECT_DIR$/AddLinkLists/src/addLinkListsTest.java</url>
           <line>21</line>
           <properties />
         </line-breakpoint>
@@ -349,24 +351,24 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Node.java">
+    <entry file="file://$PROJECT_DIR$/AddLinkLists/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/addLinkListsTest.java">
+    <entry file="file://$PROJECT_DIR$/AddLinkLists/src/addLinkListsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/addLinkLists.java">
+    <entry file="file://$PROJECT_DIR$/AddLinkLists/src/addLinkLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
-          <caret line="47" column="23" lean-forward="true" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
