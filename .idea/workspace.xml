@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="04d36449-3f82-4403-aef8-55a114ec98af" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/addLinkLists.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/addLinkListsTest.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,6 +60,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Marco Farrier &lt;marcofarrier@outlook.com&gt;" />
         <option value="Marco &lt;marcofarrier@outlook.com&gt;" />
         <option value="marcofarrier@outlook.com" />
         <option value="Marco Farrier" />
@@ -264,7 +262,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1530650454024</updated>
-      <workItem from="1530650469554" duration="5741000" />
+      <workItem from="1530650469554" duration="6532000" />
     </task>
     <task id="LOCAL-00001" summary="Java code for adding two linked lists (https://leetcode.com/problems/add-two-numbers/description/)">
       <created>1530667660731</created>
@@ -273,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1530667660731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java code for adding two linked lists (https://leetcode.com/problems/add-two-numbers/description/)">
+      <created>1530668332842</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1530668332842</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -291,7 +296,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5741000" />
+    <option name="totallyTimeSpent" value="6532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
@@ -318,7 +323,7 @@
       <window_info id="UI Designer" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963424" visible="true" weight="0.3992298" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49963424" weight="0.3992298" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
